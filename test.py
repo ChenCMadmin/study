@@ -4,3 +4,4 @@ a = "abcdef"
 ret5 = a.split("ad")
 print(ret5)
 print('test')
+print('test')
