@@ -2,6 +2,9 @@
 先自己注册github账号，本地安装git环境，打开Pycharm-File-Settings-Version control-Git设置页面
 填写git在本地的地址
 
+git--Add 提交文件
+共享给GitHub VCS--Import -github
+
 pull拉取代码
 找到VCS-Checkoutfrom Version Control-Git
 输入代码仓库地址
