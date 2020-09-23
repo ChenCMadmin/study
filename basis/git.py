@@ -9,8 +9,9 @@ pull拉取代码
 找到VCS-Checkoutfrom Version Control-Git
 输入代码仓库地址
 
+更新代码
 打开Vcs-Git-Commit提交代码
-
+更新GitHub
 打开Vcs-Git-Push，勾选push标签为当前分支
 '''
 
