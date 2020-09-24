@@ -21,6 +21,7 @@ def function(x, y) :
     n = x + y
     return print(n)
 
+#Ctrl + Q 查看函数说明
 function(10, 20)
 
 # 执行一个有参数的函数
